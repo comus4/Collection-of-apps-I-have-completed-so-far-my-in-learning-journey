@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BetterRest
 //
-//  Created by Paul Hudson on 22/10/2021.
+//  Created by Comus Hardman following 100 Days of SwiftUI by Paul Hudson.
 //
 
 import CoreML
