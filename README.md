@@ -4,7 +4,5 @@ All apps were developed following various tutorials: iOS & Swift - The Complete 
 
 100 Days of SwiftUI:
 Project 1—
-
-
-https://user-images.githubusercontent.com/79765856/177021761-bf06dc1f-3b3c-4a56-8130-415cb78ad9f2.mov
+https://user-images.githubusercontent.com/79765856/177021822-80a0e6ec-7824-462b-b052-fc675abe77c9.mov
 
