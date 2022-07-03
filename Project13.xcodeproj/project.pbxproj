@@ -11,6 +11,8 @@
 		D884CCFA2871F2C700435053 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884CCF92871F2C700435053 /* ContentView.swift */; };
 		D884CCFC2871F2CA00435053 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D884CCFB2871F2CA00435053 /* Assets.xcassets */; };
 		D884CCFF2871F2CA00435053 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D884CCFE2871F2CA00435053 /* Preview Assets.xcassets */; };
+		D884CD062871F2E800435053 /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884CD052871F2E800435053 /* ImageSaver.swift */; };
+		D884CD082871F2F000435053 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884CD072871F2F000435053 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		D884CCF92871F2C700435053 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D884CCFB2871F2CA00435053 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D884CCFE2871F2CA00435053 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D884CD052871F2E800435053 /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
+		D884CD072871F2F000435053 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				D884CCF72871F2C700435053 /* Project13App.swift */,
 				D884CCF92871F2C700435053 /* ContentView.swift */,
+				D884CD052871F2E800435053 /* ImageSaver.swift */,
+				D884CD072871F2F000435053 /* ImagePicker.swift */,
 				D884CCFB2871F2CA00435053 /* Assets.xcassets */,
 				D884CCFD2871F2CA00435053 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D884CCFA2871F2C700435053 /* ContentView.swift in Sources */,
+				D884CD082871F2F000435053 /* ImagePicker.swift in Sources */,
+				D884CD062871F2E800435053 /* ImageSaver.swift in Sources */,
 				D884CCF82871F2C700435053 /* Project13App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
