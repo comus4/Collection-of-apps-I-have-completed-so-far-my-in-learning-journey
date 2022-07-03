@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/79765856/177046151-54b99645-074f-463d-
 
 https://user-images.githubusercontent.com/79765856/177047308-fd0315be-4900-4a8c-ac60-1cd75fc747fd.mov
 
-—Project 14—
+—Project 14 (best if run on physical device, i.e. iPhone, because of biometric authentication)—
 
 https://user-images.githubusercontent.com/79765856/177053546-a43974f1-bcfa-4835-b498-15b82be34150.mp4
 
