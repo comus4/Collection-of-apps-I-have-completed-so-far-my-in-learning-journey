@@ -38,4 +38,10 @@ https://user-images.githubusercontent.com/79765856/177043679-3b7a2216-5cbb-4278-
 —Project 8—
 
 
-[Screen Recording 2022-07-03 at 10.38.11 AM.zip](https://github.com/comus4/Collection-of-tutorial-apps-I-completed-in-learning-journey/files/9034964/Screen.Recording.2022-07-03.at.10.38.11.AM.zip)
+
+https://user-images.githubusercontent.com/79765856/177045086-878aab92-8312-4299-8221-41e9dbdb29cd.mov
+
+
+
+
+
