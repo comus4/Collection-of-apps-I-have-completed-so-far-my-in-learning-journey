@@ -11,6 +11,7 @@
 		D884CBFD2871D22200435053 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D884CBFC2871D22200435053 /* ContentView.swift */; };
 		D884CBFF2871D22400435053 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D884CBFE2871D22400435053 /* Assets.xcassets */; };
 		D884CC022871D22400435053 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D884CC012871D22400435053 /* Preview Assets.xcassets */; };
+		D884CC092871D26500435053 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D884CC082871D26500435053 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D884CBFC2871D22200435053 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D884CBFE2871D22400435053 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D884CC012871D22400435053 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D884CC082871D26500435053 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D884CBFA2871D22200435053 /* Project4App.swift */,
 				D884CBFC2871D22200435053 /* ContentView.swift */,
+				D884CC082871D26500435053 /* SleepCalculator.mlmodel */,
 				D884CBFE2871D22400435053 /* Assets.xcassets */,
 				D884CC002871D22400435053 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D884CBFD2871D22200435053 /* ContentView.swift in Sources */,
+				D884CC092871D26500435053 /* SleepCalculator.mlmodel in Sources */,
 				D884CBFB2871D22200435053 /* Project4App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
