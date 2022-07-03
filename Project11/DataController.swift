@@ -2,7 +2,7 @@
 //  DataController.swift
 //  Bookworm
 //
-//  Created by Paul Hudson on 23/11/2021.
+//  Created by Comus Hardman following 100 Days of SwiftUI by Paul Hudson.
 //
 
 import CoreData
