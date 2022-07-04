@@ -89,3 +89,13 @@ https://user-images.githubusercontent.com/79765856/177053794-14a08890-bade-44d6-
 Project — "Restart"
 
 ![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 16 10 38](https://user-images.githubusercontent.com/79765856/177212352-c91a73a5-817a-4134-b1de-a620eb2a7882.gif)
+
+
+Project — "Pinch"
+
+![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 16 17 11](https://user-images.githubusercontent.com/79765856/177212781-1950cf8c-994a-4fcc-a72e-36dbe466da0a.gif)
+
+Project — "Fruits"
+
+
+![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 16 21 00](https://user-images.githubusercontent.com/79765856/177213132-8621df33-33a7-469d-b994-cfc7a33c452f.gif)
