@@ -72,5 +72,8 @@ https://user-images.githubusercontent.com/79765856/177053794-14a08890-bade-44d6-
 
 —Project 15 (Has accessibility content, best if run on physical device, i.e. iPhone)—
 
+![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 15 56 46](https://user-images.githubusercontent.com/79765856/177211210-b9e15177-283c-445f-bdf6-d99a92f224fa.gif)
+
+
 
 
