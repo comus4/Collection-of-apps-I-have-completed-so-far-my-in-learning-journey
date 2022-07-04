@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/79765856/177053794-14a08890-bade-44d6-
 —Project 15 (Has accessibility content, best if run on physical device, i.e. iPhone)—
 
 —Project 17—
-*Click to view GIF*
+*Click to view GIF if it doesn't autoplay*
 
 ![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 15 56 46](https://user-images.githubusercontent.com/79765856/177211403-78d9c4ea-21d1-4471-b1ab-b6542bd807e2.gif)
 
