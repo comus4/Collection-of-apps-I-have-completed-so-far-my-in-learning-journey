@@ -1,7 +1,7 @@
 # Collection-of-tutorial-apps-I-completed-in-learning-journey
 
 All apps were developed following various tutorials: iOS & Swift - The Complete iOS App Development Bootcamp by Angela Yu, 100 Days of SwiftUI by Paul Hudson, Tutorials by raywenderlich Tutorial Team, SwiftUI Masterclass by Robert Petras, SwiftUI & iOS 15 App Development - Build Instagram & TikTok
-by Cem Salta.
+by Cem Salta, SwiftUI - Build Tinder Clone - SwiftUI Best Practices by Nikita Thomas.
 
 ## 100 Days of SwiftUI:
 
