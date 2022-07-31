@@ -99,3 +99,11 @@ Project — "Fruits"
 
 
 ![Simulator Screen Recording - iPhone 12 Pro - 2022-07-04 at 16 21 00](https://user-images.githubusercontent.com/79765856/177213132-8621df33-33a7-469d-b994-cfc7a33c452f.gif)
+
+
+
+## TikTok-like app
+
+
+![Simulator Screen Recording - iPhone 12 Pro - 2022-07-30 at 20 16 06](https://user-images.githubusercontent.com/79765856/182004358-c3539ec8-868b-4e3a-b6c0-6bdcefc8fc7c.gif)
+
