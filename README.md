@@ -110,7 +110,7 @@ Project — "Fruits"
 
 ## Instagram-like app with a twist from Cem Salta course SwiftUI & iOS 15 App Development - Build Instagram & TikTok
 
-The app twist I threw in is using a marquee style prompt to encourage scintillating, engaging content. 
+The app twist I threw in is using a marquee style prompt to encourage scintillating, engaging content with their "hot take" on a subject. Hence the name. 
 
 *Learned how to create a full-stack app with Firebase Firestore and Storage
 *Learned how to fetch data from Web APIs in JSON using Alamofire
