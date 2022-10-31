@@ -107,3 +107,17 @@ Project — "Fruits"
 
 ![Simulator Screen Recording - iPhone 12 Pro - 2022-07-30 at 20 16 06](https://user-images.githubusercontent.com/79765856/182004358-c3539ec8-868b-4e3a-b6c0-6bdcefc8fc7c.gif)
 
+
+## Instagram-like app with a twist from Cem Salta course SwiftUI & iOS 15 App Development - Build Instagram & TikTok
+
+Learned how to create a full-stack app with Firebase Firestore and Storage
+Learned how to fetch data from Web APIs in JSON using Alamofire
+
+![Simulator Screen Shot - iPhone 14 Plus - 2022-10-31 at 15 40 00](https://user-images.githubusercontent.com/79765856/199098213-1941236c-ca80-417f-afdd-10be4e6c7a3e.png)
+
+
+![Simulator Screen Recording - iPhone 14 Plus - 2022-10-31 at 15 57 28](https://user-images.githubusercontent.com/79765856/199099114-2c919984-5b9e-4a42-86d8-9c65d2d18f75.gif)
+
+![Simulator Screen Recording - iPhone 14 Plus - 2022-10-31 at 15 56 22](https://user-images.githubusercontent.com/79765856/199099136-439c903f-466a-4989-a77e-a03c1bdfd971.gif)
+
+![Simulator Screen Recording - iPhone 14 Plus - 2022-10-31 at 15 57 49](https://user-images.githubusercontent.com/79765856/199099156-1e52d031-abf9-4a71-bbea-237004ade5b7.gif)
