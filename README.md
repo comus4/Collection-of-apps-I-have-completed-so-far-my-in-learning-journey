@@ -110,8 +110,10 @@ Project — "Fruits"
 
 ## Instagram-like app with a twist from Cem Salta course SwiftUI & iOS 15 App Development - Build Instagram & TikTok
 
-Learned how to create a full-stack app with Firebase Firestore and Storage
-Learned how to fetch data from Web APIs in JSON using Alamofire
+The app twist I threw in is using a marquee style prompt to encourage scintillating, engaging content. 
+
+*Learned how to create a full-stack app with Firebase Firestore and Storage
+*Learned how to fetch data from Web APIs in JSON using Alamofire
 
 ![Simulator Screen Shot - iPhone 14 Plus - 2022-10-31 at 15 40 00](https://user-images.githubusercontent.com/79765856/199098213-1941236c-ca80-417f-afdd-10be4e6c7a3e.png)
 
