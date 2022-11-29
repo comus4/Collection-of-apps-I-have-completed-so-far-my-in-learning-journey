@@ -1,6 +1,6 @@
 # Collection-of-tutorial-apps-I-completed-in-learning-journey
 
-All apps were developed following various tutorials: iOS & Swift - The Complete iOS App Development Bootcamp by Angela Yu, 100 Days of SwiftUI by Paul Hudson, Tutorials by raywenderlich Tutorial Team, SwiftUI Masterclass by Robert Petras, Build Instagram & TikTok by Cem Salta, Build Tinder Clone - by Nikita Thomas.
+All apps were developed following various tutorials: iOS & Swift - The Complete iOS App Development Bootcamp by Angela Yu, 100 Days of SwiftUI by Paul Hudson, Tutorials by raywenderlich Tutorial Team, SwiftUI Masterclass by Robert Petras, Build Instagram & TikTok by Cem Salta, Build Tinder Clone - by Nikita Thomas, Stanford University's course CS193p (Developing Applications for iOS using SwiftUI).
 
 ## 100 Days of SwiftUI:
 
@@ -123,3 +123,7 @@ The app twist I threw in is using a marquee style prompt to encourage scintillat
 ![Simulator Screen Recording - iPhone 14 Plus - 2022-10-31 at 15 56 22](https://user-images.githubusercontent.com/79765856/199099136-439c903f-466a-4989-a77e-a03c1bdfd971.gif)
 
 ![Simulator Screen Recording - iPhone 14 Plus - 2022-10-31 at 15 57 49](https://user-images.githubusercontent.com/79765856/199099156-1e52d031-abf9-4a71-bbea-237004ade5b7.gif)
+
+## Stanford University's course CS193p Memorize app
+![Simulator Screen Recording - iPhone 14 Pro - 2022-11-29 at 18 15 17](https://user-images.githubusercontent.com/79765856/204669662-319e9edc-4d8d-40c1-ab2c-b92b665b9bd5.gif)
+
